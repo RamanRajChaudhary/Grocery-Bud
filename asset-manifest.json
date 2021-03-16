@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Grocery-Bud.git/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Grocery-Bud.git/static/js/main.be4f717c.chunk.js",
-    "main.js.map": "/Grocery-Bud.git/static/js/main.be4f717c.chunk.js.map",
-    "runtime-main.js": "/Grocery-Bud.git/static/js/runtime-main.7817f471.js",
-    "runtime-main.js.map": "/Grocery-Bud.git/static/js/runtime-main.7817f471.js.map",
-    "static/js/2.c04e488d.chunk.js": "/Grocery-Bud.git/static/js/2.c04e488d.chunk.js",
-    "static/js/2.c04e488d.chunk.js.map": "/Grocery-Bud.git/static/js/2.c04e488d.chunk.js.map",
-    "static/js/3.bac5722f.chunk.js": "/Grocery-Bud.git/static/js/3.bac5722f.chunk.js",
-    "static/js/3.bac5722f.chunk.js.map": "/Grocery-Bud.git/static/js/3.bac5722f.chunk.js.map",
-    "index.html": "/Grocery-Bud.git/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Grocery-Bud.git/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.c04e488d.chunk.js.LICENSE.txt": "/Grocery-Bud.git/static/js/2.c04e488d.chunk.js.LICENSE.txt"
+    "main.css": "/Grocery-Bud/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Grocery-Bud/static/js/main.be4f717c.chunk.js",
+    "main.js.map": "/Grocery-Bud/static/js/main.be4f717c.chunk.js.map",
+    "runtime-main.js": "/Grocery-Bud/static/js/runtime-main.d80f821b.js",
+    "runtime-main.js.map": "/Grocery-Bud/static/js/runtime-main.d80f821b.js.map",
+    "static/js/2.c04e488d.chunk.js": "/Grocery-Bud/static/js/2.c04e488d.chunk.js",
+    "static/js/2.c04e488d.chunk.js.map": "/Grocery-Bud/static/js/2.c04e488d.chunk.js.map",
+    "static/js/3.bac5722f.chunk.js": "/Grocery-Bud/static/js/3.bac5722f.chunk.js",
+    "static/js/3.bac5722f.chunk.js.map": "/Grocery-Bud/static/js/3.bac5722f.chunk.js.map",
+    "index.html": "/Grocery-Bud/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Grocery-Bud/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c04e488d.chunk.js.LICENSE.txt": "/Grocery-Bud/static/js/2.c04e488d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7817f471.js",
+    "static/js/runtime-main.d80f821b.js",
     "static/js/2.c04e488d.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.be4f717c.chunk.js"
