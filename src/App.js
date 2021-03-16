@@ -64,6 +64,7 @@ function App() {
     setIsEditing(true);
     setName(specificItem.title);
   };
+  
   useEffect(() => {
     localStorage.setItem("list", JSON.stringify(list));
   }, [list]);
