@@ -69,6 +69,7 @@ function App() {
   //   localStorage.setItem("list", JSON.stringify(list));
   // }, [list]);
  
+  
   return (
     <div className="App">
        <section className="section-center">
