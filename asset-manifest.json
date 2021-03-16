@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/RamanRajChaudhary/Grocery-Bud.git/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/RamanRajChaudhary/Grocery-Bud.git/static/js/main.be4f717c.chunk.js",
-    "main.js.map": "/RamanRajChaudhary/Grocery-Bud.git/static/js/main.be4f717c.chunk.js.map",
-    "runtime-main.js": "/RamanRajChaudhary/Grocery-Bud.git/static/js/runtime-main.5b258d9f.js",
-    "runtime-main.js.map": "/RamanRajChaudhary/Grocery-Bud.git/static/js/runtime-main.5b258d9f.js.map",
-    "static/js/2.c04e488d.chunk.js": "/RamanRajChaudhary/Grocery-Bud.git/static/js/2.c04e488d.chunk.js",
-    "static/js/2.c04e488d.chunk.js.map": "/RamanRajChaudhary/Grocery-Bud.git/static/js/2.c04e488d.chunk.js.map",
-    "static/js/3.bac5722f.chunk.js": "/RamanRajChaudhary/Grocery-Bud.git/static/js/3.bac5722f.chunk.js",
-    "static/js/3.bac5722f.chunk.js.map": "/RamanRajChaudhary/Grocery-Bud.git/static/js/3.bac5722f.chunk.js.map",
-    "index.html": "/RamanRajChaudhary/Grocery-Bud.git/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/RamanRajChaudhary/Grocery-Bud.git/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.c04e488d.chunk.js.LICENSE.txt": "/RamanRajChaudhary/Grocery-Bud.git/static/js/2.c04e488d.chunk.js.LICENSE.txt"
+    "main.css": "/Grocery-Bud.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Grocery-Bud.git/static/js/main.be4f717c.chunk.js",
+    "main.js.map": "/Grocery-Bud.git/static/js/main.be4f717c.chunk.js.map",
+    "runtime-main.js": "/Grocery-Bud.git/static/js/runtime-main.7817f471.js",
+    "runtime-main.js.map": "/Grocery-Bud.git/static/js/runtime-main.7817f471.js.map",
+    "static/js/2.c04e488d.chunk.js": "/Grocery-Bud.git/static/js/2.c04e488d.chunk.js",
+    "static/js/2.c04e488d.chunk.js.map": "/Grocery-Bud.git/static/js/2.c04e488d.chunk.js.map",
+    "static/js/3.bac5722f.chunk.js": "/Grocery-Bud.git/static/js/3.bac5722f.chunk.js",
+    "static/js/3.bac5722f.chunk.js.map": "/Grocery-Bud.git/static/js/3.bac5722f.chunk.js.map",
+    "index.html": "/Grocery-Bud.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Grocery-Bud.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c04e488d.chunk.js.LICENSE.txt": "/Grocery-Bud.git/static/js/2.c04e488d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b258d9f.js",
+    "static/js/runtime-main.7817f471.js",
     "static/js/2.c04e488d.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.be4f717c.chunk.js"
